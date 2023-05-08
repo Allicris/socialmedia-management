@@ -9,3 +9,7 @@ One can easily be directed to a desired section of the website by clicking one o
 ## Website 
 You can access the website with the URL:
 The website should look like the image below. 
+
+<img width="1280" alt="Screen Shot 2023-05-08 at 6 19 58 AM" src="https://user-images.githubusercontent.com/127909430/236799941-0e7938bb-56ec-4dff-828e-848045586985.png">
+<img width="1280" alt="Screen Shot 2023-05-08 at 6 20 09 AM" src="https://user-images.githubusercontent.com/127909430/236799958-86559575-f6d5-4715-92f3-4cc0bc3db2bc.png">
+<img width="1280" alt="Screen Shot 2023-05-08 at 6 20 12 AM" src="https://user-images.githubusercontent.com/127909430/236799967-fa573eae-36be-437e-83eb-89a335a300db.png">
